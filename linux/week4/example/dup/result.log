@@ -1,0 +1,5 @@
+total 24
+-rwxrwxr-x 1 robert robert 16128 Mar  5 02:50 a.out
+-rw-rw-r-- 1 robert robert   297 Mar  5 02:50 ex1.c
+-rw-rw-r-- 1 robert robert   927 Mar  5 02:47 myhdr.h
+-rw-rw-r-- 1 robert robert     0 Mar  5 02:51 result.log

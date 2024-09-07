@@ -1,0 +1,10 @@
+total 60
+-rw-rw-r-- 1 robert robert    25 Mar  5 08:36 a.txt
+-rwxrwxr-x 1 robert robert 16304 Mar  5 08:36 copy
+-rw-rw-r-- 1 robert robert  1487 Mar  5 08:36 copy.c
+-rw-rw-r-- 1 robert robert   343 Mar  5 08:36 error_functions.c
+-rw-rw-r-- 1 robert robert     0 Mar  6 07:00 ls.txt
+-rw-rw-r-- 1 robert robert   908 Mar  5 08:36 myhdr.h
+-rwxrwxr-x 1 robert robert 16608 Mar  5 08:36 seek_io
+-rw-rw-r-- 1 robert robert  2887 Mar  5 08:36 seek_io.c
+-rw-rw-r-- 1 robert robert    55 Mar  5 08:36 test.txt

@@ -1,0 +1,7 @@
+Makefile
+bin
+include
+ls.txt
+obj
+src
+test

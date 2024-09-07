@@ -1,0 +1,13 @@
+1. Cmd provide by server
+
+  who: show information of all users.
+  tell: send a message to another user.
+  yell: send a message to all users.
+  name: change your name.
+
+2. user pipe
+
+  <command> <`n`: reads contents from the pipe. 
+  <command> >`n`: pipes result(stdout) of command into the pipe.
+
+3. Is number pipe counter need count self define command ? 

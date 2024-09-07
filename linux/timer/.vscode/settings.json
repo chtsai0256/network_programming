@@ -1,0 +1,15 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/robert/course/network_programming2023/linux/timer",
+            "binaryPath": "/home/robert/course/network_programming2023/linux/timer/timer",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/robert/2023/socket_programming/linux/timer",
+            "binaryPath": "/home/robert/2023/socket_programming/linux/timer/timer",
+            "binaryArgs": []
+        }
+    ]
+}

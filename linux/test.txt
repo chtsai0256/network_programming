@@ -1,0 +1,22 @@
+total 192
+-rwxrwxr-x 1 robert robert 16256 Feb 20 03:24 a.out
+-rw-rw-r-- 1 robert robert   756 Jan 20 13:48 dup2.c
+-rwxrwxr-x 1 robert robert 17360 Jan 10 13:41 env
+-rw-rw-r-- 1 robert robert   143 Jan 10 13:41 env.c
+drwxrwxr-x 2 robert robert  4096 Feb 16 10:52 fileio
+-rw-rw-r-- 1 robert robert 18384 Jan 10 13:41 mexec
+-rw-rw-r-- 1 robert robert   830 Jan 10 13:41 mexec.c
+-rwxrwxr-x 1 robert robert 17528 Jan 10 14:00 mfork
+-rw-rw-r-- 1 robert robert   325 Feb 15 11:26 mfork.c
+-rwxrwxr-x 1 robert robert 16296 Jan 12 03:30 msignal
+-rw-rw-r-- 1 robert robert   767 Feb 16 03:26 msignal.c
+-rw-rw-r-- 1 robert robert 16272 Jan 10 13:41 mwait
+-rw-rw-r-- 1 robert robert   496 Jan 10 13:41 mwait.c
+drwxrwxr-x 6 robert robert  4096 Feb 17 00:20 shell
+-rw-rw-r-- 1 robert robert 19776 Jan 10 13:41 sigalrm
+-rw-rw-r-- 1 robert robert   408 Jan 10 13:41 sigalrm.c
+drwxrwxr-x 2 robert robert  4096 Feb 15 10:51 syscall
+-rw------- 1 robert robert     0 Feb 20 04:41 test.txt
+drwxrwxr-x 6 robert robert  4096 Jan 10 13:50 timer
+-rw-rw-r-- 1 robert robert 16128 Jan 10 13:41 zombie
+-rw-rw-r-- 1 robert robert   316 Jan 10 13:41 zombie.c

@@ -1,0 +1,2 @@
+gcc -m32 main.c -o m32
+gcc -m64 main.c -o m64

@@ -1,0 +1,59 @@
+1. Cmd provide by server
+
+  who: show information of all users.
+  tell: send a message to another user.
+  yell: send a message to all users.
+  name: change your name.
+
+2. user pipe
+
+  <command> <`n`: reads contents from the pipe. 
+  <command> >`n`: pipes result(stdout) of command into the pipe.
+
+3. Is number pipe counter need count self define command ? 
+
+<------------------------------ database data struct define ------------------------------>
+
+Global variable
+
+user_count:// int <record all of user> 
+mail_count:// for generate mail id.
+
+user_list://
+  |
+  |- `user_name`
+
+group_list:
+  |
+  |- `user_name`_group
+
+---- name convention ----> `id`_user_name
+user://
+  |
+  |- id: str
+  |- password: str
+  |- mailbox key: list [element: key of mail]
+  |- group list key: list [element: key of group]
+
+---- name convention ----> `user_name`_group_list
+group_list:
+  |
+  |- group<id>: list [element: key of group]
+
+---- name convention ----> `group_name`_group
+group:
+  |
+  |- member_list: list [element: key of user]
+
+---- name convention ----> 'user_name'_mailbox
+mailbox:
+  |
+  |- mail<id>: list [element: key of mail]
+
+---- name convention ----> 'id'_mail
+mail:
+  |
+  |- id: str
+  |- date: str
+  |- sender: str
+  |- message: str

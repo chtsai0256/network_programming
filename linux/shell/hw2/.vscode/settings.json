@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "history.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/robert/2023/socket_programming/linux/shell/mk4/bin",
+            "binaryPath": "/home/robert/2023/socket_programming/linux/shell/mk4/bin/shell",
+            "binaryArgs": []
+        }
+    ]
+}

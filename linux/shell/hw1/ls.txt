@@ -1,0 +1,4 @@
+1 [A[A
+2 /tmp/Microsoft-MIEngine-Cmd-c
+3 .cd
+4 ..
